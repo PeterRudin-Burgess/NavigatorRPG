@@ -4,5 +4,5 @@ Navigator RPG is an OGL/Old School role playing game with compatible game mechan
 
 #### Things to do
 
-* use the Issue Tracke to report bugs, errata, etc..
+* use the Issue Tracker to report bugs, errata, etc..
 * read the Wiki Pages
